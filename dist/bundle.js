@@ -1,0 +1,1 @@
+(()=>{var e={395:e=>{e.exports=function(){let e=document.createElement("div");return e.innerHTML="welcome to China",e}}},r={};function t(o){var n=r[o];if(void 0!==n)return n.exports;var c=r[o]={exports:{}};return e[o](c,c.exports,t),c.exports}(()=>{const e=t(395);document.querySelector("#root").appendChild(e())})()})();
